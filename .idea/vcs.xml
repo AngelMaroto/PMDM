@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AdivinaPalabra" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CheckBox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CrearUsuarios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EjemploFrameLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EjemploFrameLayout1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EjemploLazyColum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EjemploTableLayout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EjemploTextField_email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ejemplo_cicloVida" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EjemplosPOO" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EjerciciosLambda" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EscuchadorTeclado" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Recurso_Drawable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UI_ImperativavsDeclarativa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/compose-samples" vcs="Git" />
+  </component>
+</project>
